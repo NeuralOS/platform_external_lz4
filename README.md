@@ -96,3 +96,4 @@ many contributors have created versions of lz4 in multiple languages
 A list of known source ports is maintained on the [LZ4 Homepage].
 
 [LZ4 Homepage]: http://www.lz4.org
+# platform_external_lz4
